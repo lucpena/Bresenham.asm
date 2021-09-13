@@ -1,7 +1,6 @@
 ################################################################
 #                                                              #
-#       Lucas Araujo Pena - 130056162                          #
-#       UnB - OAC 2021 - Jacobi                                #
+#       Lucas Araujo Pena                                      #
 #                                                              #
 #       Algoritmo de Bresenham em Assembly (RISC-V)            #
 #                                                              #
